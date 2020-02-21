@@ -15,6 +15,8 @@
         <option value="$PROJECT_DIR$/spring-cloud-producer2/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-turbine/pom.xml" />
         <option value="$PROJECT_DIR$/spring-cloud-consumer1/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-zipkin/pom.xml" />
       </list>
     </option>
   </component>

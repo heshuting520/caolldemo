@@ -9,6 +9,8 @@
     <file url="file://$PROJECT_DIR$/spring-cloud-producer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-producer2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-cloud-turbine" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zipkin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-zuul" charset="UTF-8" />
     <file url="PROJECT" charset="GBK" />
   </component>
 </project>
